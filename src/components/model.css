@@ -1,0 +1,12 @@
+
+#card model-viewer {
+    background-color: white;
+    /* height: 100%;
+    width: 100%; */
+    height: 300px;
+    width: 400px;
+    max-width: 90vw;
+  
+    margin: 10px 0px 10px 0px;
+    background-image: linear-gradient(to bottom, white, rgb(151, 144, 144));
+}
